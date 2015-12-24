@@ -58,7 +58,7 @@
             android:orientation="vertical" >
 
             <TextView
-                android:id="@+id/current_data"
+                android:id="@+id/current_date"
                 android:layout_width="wrap_content"
                 android:layout_height="40dp"
                 android:gravity="center"
